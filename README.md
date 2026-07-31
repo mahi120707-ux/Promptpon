@@ -1,2 +1,0 @@
-# Promptpon
-my college competition
